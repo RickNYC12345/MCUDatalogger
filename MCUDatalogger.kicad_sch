@@ -98,6 +98,58 @@
   )
 
 
+  (symbol (lib_id "Device:R") (at 114.3 88.9 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 0d1172eb-e927-4a9c-934e-76b9f793bbc0)
+    (property "Reference" "R3" (at 116.84 87.63 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "R" (at 116.84 90.17 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "" (at 112.522 88.9 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 114.3 88.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "2" (uuid aef3ee9c-fb04-4c31-9ba4-23d2825b5662))
+    (pin "1" (uuid 48934c99-77cb-4afe-beef-5145ebf49910))
+    (instances
+      (project "MCUDatalogger"
+        (path "/a46afdbf-01b2-4464-8083-80e47ae67da1"
+          (reference "R3") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Device:C") (at 154.94 90.17 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 87d43cf2-626c-4c93-aa01-9b5b0ff0a3f2)
+    (property "Reference" "C2" (at 158.75 88.9 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "C" (at 158.75 91.44 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "" (at 155.9052 93.98 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 154.94 90.17 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "2" (uuid 43ae6e07-78df-4b69-bef2-cca806b8cf25))
+    (pin "1" (uuid 543c18dd-9d04-4a1c-b2d6-15b8c53cc82b))
+    (instances
+      (project "MCUDatalogger"
+        (path "/a46afdbf-01b2-4464-8083-80e47ae67da1"
+          (reference "C2") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Device:C") (at 130.81 73.66 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 98f33aeb-f84b-4f25-8509-b00dfe2bcc7f)
