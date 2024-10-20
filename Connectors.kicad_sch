@@ -352,7 +352,7 @@
   (symbol (lib_id "Connector_Generic:Conn_02x03_Odd_Even") (at 195.58 143.51 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0948c5cf-72f4-4b60-83a4-32d4f32c2c7c)
-    (property "Reference" "J4" (at 196.85 134.62 0)
+    (property "Reference" "J?" (at 196.85 134.62 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_02x03_Odd_Even" (at 196.85 137.16 0)
@@ -376,7 +376,7 @@
     (instances
       (project "MCUDatalogger"
         (path "/a46afdbf-01b2-4464-8083-80e47ae67da1/803d4b1a-ac34-47b6-b579-d41bb776d097"
-          (reference "J4") (unit 1)
+          (reference "J?") (unit 1)
         )
       )
     )
@@ -385,7 +385,7 @@
   (symbol (lib_id "Connector:Conn_01x04_Pin") (at 191.77 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1055de66-932e-42dc-9567-286df39300d3)
-    (property "Reference" "J2" (at 192.405 110.49 0)
+    (property "Reference" "J?" (at 192.405 110.49 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_01x04_Pin" (at 192.405 113.03 0)
@@ -407,7 +407,7 @@
     (instances
       (project "MCUDatalogger"
         (path "/a46afdbf-01b2-4464-8083-80e47ae67da1/803d4b1a-ac34-47b6-b579-d41bb776d097"
-          (reference "J2") (unit 1)
+          (reference "J?") (unit 1)
         )
       )
     )
@@ -416,7 +416,7 @@
   (symbol (lib_id "Connector:Conn_01x04_Pin") (at 173.99 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1511db2c-72e4-42a6-81b6-521a0c3e281d)
-    (property "Reference" "J1" (at 174.625 110.49 0)
+    (property "Reference" "J?" (at 174.625 110.49 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_01x04_Pin" (at 174.625 113.03 0)
@@ -438,7 +438,7 @@
     (instances
       (project "MCUDatalogger"
         (path "/a46afdbf-01b2-4464-8083-80e47ae67da1/803d4b1a-ac34-47b6-b579-d41bb776d097"
-          (reference "J1") (unit 1)
+          (reference "J?") (unit 1)
         )
       )
     )
@@ -447,7 +447,7 @@
   (symbol (lib_id "Connector:Conn_01x09_Pin") (at 173.99 146.05 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cfbe22a8-095f-4a35-af5e-588eb1352bbf)
-    (property "Reference" "J3" (at 174.625 130.81 0)
+    (property "Reference" "J?" (at 174.625 130.81 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_01x09_Pin" (at 174.625 133.35 0)
@@ -474,7 +474,7 @@
     (instances
       (project "MCUDatalogger"
         (path "/a46afdbf-01b2-4464-8083-80e47ae67da1/803d4b1a-ac34-47b6-b579-d41bb776d097"
-          (reference "J3") (unit 1)
+          (reference "J?") (unit 1)
         )
       )
     )
